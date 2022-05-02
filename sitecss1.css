@@ -266,7 +266,7 @@ section {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end;
-  background: url("https://github.com/zakariachamakh/elmawkef_web_site/blob/main/imag/HOME.jpeg") no-repeat;
+  background: url("imag/HOME.jpeg") no-repeat;
   background-position: center;
   background-size: cover;
   position: relative;
@@ -686,7 +686,7 @@ section {
 
 .footer {
   position: relative;
-  background: url("https://github.com/zakariachamakh/elmawkef_web_site/blob/main/imag/BACKG.jpg") no-repeat;
+  background: url("/imag/BACKG.jpg") no-repeat;
   background-position: center;
   background-size: center;
   padding-top: 10rem;
